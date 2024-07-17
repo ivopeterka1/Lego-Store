@@ -15,3 +15,4 @@ Povezave med bazami:
 
 <img width="889" alt="ER_diagram" src="https://github.com/user-attachments/assets/f474c19a-1ece-4224-8e8e-4826a767f811">
 
+Najin projekt se za delovanja zanaša tudi na knjižnice, ki niso vključene v python, kot npr. bottle, zato jo je potrebno prej naložiti.
